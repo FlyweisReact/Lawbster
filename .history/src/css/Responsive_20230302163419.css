@@ -1,0 +1,41 @@
+
+/* Desktop */
+@media screen and (min-width: 780px) and (max-width: 1500px) {
+
+    .footer .down{
+        display: grid;
+        gri
+        /* justify-content: space-evenly; */
+        justify-content: center;
+    }
+
+    .footer .down .head{
+margin-left: 0;
+      }
+      .footer .down ul{
+        width: 30%;
+      }
+    .footer .down .lastList{
+        margin-left: 0;
+      }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 600px) and (max-width: 980px) {
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 760px) {
+
+}

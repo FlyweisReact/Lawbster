@@ -1,0 +1,48 @@
+
+/* Desktop */
+@media screen and (min-width: 780px) and (max-width: 1500px) {
+
+}
+
+@media screen and (min-width: 600px) and (max-width: 980px) {
+    
+
+    .nav {
+        display: flex;
+        gap: 10px;
+        width: 100%;
+      }
+      .nav .left {
+        width: 90%;
+      }
+      .nav .left ul li {
+        font-size: 16px;
+        margin-right: 20px;
+      }
+      .nav .left .specialNavList{
+        min-width: 95px;
+      }
+      
+      .nav .left .search {
+        margin-left: 0px;
+      }
+      .nav .right button {
+        color: #0f2c64;
+        border: none;
+        background-color: transparent;
+        font-weight: bold;
+        font-size: 20px;
+        font-family: Poppins;
+        margin-top: 15px;
+      }
+      
+
+
+    .footer .upper{
+        grid-template-columns: auto auto;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 760px) {
+
+}

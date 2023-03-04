@@ -1,0 +1,104 @@
+/**
+ * Desktop
+ *
+ * @format
+ */
+
+@media screen and (min-width: 780px) and (max-width: 1500px) {
+}
+
+@media screen and (min-width: 600px) and (max-width: 980px) {
+  .nav {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+  }
+  .nav .left {
+    width: 90%;
+  }
+  .nav .left ul li {
+    font-size: 16px;
+    margin-right: 20px;
+  }
+  .nav .left .specialNavList {
+    min-width: 95px;
+  }
+
+  .nav .left .search {
+    margin-left: 0px;
+  }
+  .nav .right button {
+    margin-top: 15px;
+  }
+
+  .homeThreeSec{
+    grid-template-columns: auto auto;
+    padding-bottom: 10%;
+  }
+  .HomeThreeSec p{
+    max-width: 200px;
+  }
+  .footer .upper {
+    grid-template-columns: auto auto;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 760px) {
+    .nav .left ul{
+        display: none;
+    }
+    .nav .left .search{
+        display: none;
+    }
+    .nav .right{
+        display: none;
+    }
+    .home2btn{
+        margin-top: 8%;
+        width: 100%;
+    }
+    .home2btn button {
+        font-size: 16px;
+    }
+
+    .homeThreeSec{
+        grid-template-columns: auto;
+        width: 100%;
+        padding-bottom: 20%;
+    }
+    .HomeThreeSec{
+        grid-template-columns: auto auto;
+        justify-content: space-evenly;
+            margin: auto;
+    }
+    .HomeThreeSec div{
+        margin-top: 20px;
+        margin: auto;
+    }
+    .homeFistSec{
+        width: 100%;
+    }
+    .homeFistSec .two-btn button{
+        font-size: 16px;
+    }
+    .footer .upper {
+        grid-template-columns: auto;
+        justify-content: center  !important;
+    }
+    .footer .upper .head {
+        text-align: center;
+    }
+    .footer .upper .desc{
+        text-align: center;
+        margin: auto;
+    }
+    .footer .upper img{
+        display: block;
+        margin: auto;
+    }
+    .footer .upper ul {
+        display: block;
+        margin: auto;
+        text-align: left;
+    }
+}
