@@ -34,7 +34,7 @@ const Navbar = () => {
             <li className="specialNavList" onClick={() => navigate("/second")}>
               For Lawyers
             </li>
-            <li onClick={() => navigate("/third")} >Businesses</li>
+            <li >Businesses</li>
           </ul>
 
           <div className="search">

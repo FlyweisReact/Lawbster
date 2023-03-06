@@ -2,9 +2,11 @@
 
 import { useState } from "react";
 import { Modal } from "react-bootstrap";
+import SignInModal from './SignInModal'
 
 function SignUpModal(props) {
   const [isOn, setIsOn] = useState(true);
+  const [ show , setShow ] = useState(false)
 
   const handleClick = () => {
     setIsOn(!isOn);
@@ -12,6 +14,9 @@ function SignUpModal(props) {
 
   return (
     <>
+
+      <SignInModal show={show} onHide={() => setShow()} />
+
       <Modal
         {...props}
         size="sl"
@@ -24,7 +29,9 @@ function SignUpModal(props) {
             <div className="twoBtn">
               <button
                 className={`${isOn ? "" : ""}`}
-                onClick={() => handleClick()}
+                onClick={() => {
+                  
+                }}
               >
                 Login
               </button>

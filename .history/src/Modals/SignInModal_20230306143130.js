@@ -20,7 +20,7 @@ function SignInModal(props) {
             <>
               <div className="SignInModal">
                 <div className="twoBtn">
-                  <button onClick={() => setSecond(false)}>Login</button>
+                  <button  onClick={() => setSecond(false)}>Login</button>
                   <button className="btn1">Sign Up</button>
                 </div>
 
@@ -75,25 +75,10 @@ function SignInModal(props) {
                     />
                   </div>
                   <button className="login">Sign Up</button>
-                  <div
-                    style={{
-                      display: "flex",
-                      gap: "10px",
-                      justifyContent: "center",
-                      marginTop: "20px",
-                    }}
-                  >
-                    <input
-                      type="checkbox"
-                      style={{
-                        width: "20px",
-                        height: "20px",
-                        marginTop: "5px",
-                      }}
-                    />
-                    <p>
-                      I agree with all{" "}
-                      <span style={{ color: "red" }}>terms & condition</span>
+                  <div style={{display : 'flex' , gap : '10px'}}> 
+                    <input type='checkbox' style={{width : '20px' , height : '20px' , marginTop : '0'}} />
+                    <p >
+                      I agree with all <span style={{color : 'red'}}>terms & condition</span>
                     </p>
                   </div>
                 </form>
