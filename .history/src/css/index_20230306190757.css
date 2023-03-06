@@ -1458,16 +1458,10 @@ line-height: 24px;
   background-repeat: repeat;
   color: #fff;
   background-size: contain;
-  padding-bottom: 5%;
-}
-.sixthScreen h3{
-  padding-top: 2%;
-  padding-left: 5%;
-  margin-bottom: 2%;
-
+  ba
 }
 .sixthScreen p {
   width: 80%;
-  padding-left: 5%;
+  padding: 20px;
   
 }

@@ -19,7 +19,7 @@ const Navbar2 = () => {
           <ul>
             <li onClick={() => navigate('/fourth')} >Blog</li>
             <li onClick={() => navigate('/fifth')}>Support</li>
-            <li  onClick={() => navigate('/sixth')}>About</li>
+            <li >About</li>
           </ul>
         </div>
 

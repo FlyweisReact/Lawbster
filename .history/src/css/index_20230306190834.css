@@ -1460,11 +1460,8 @@ line-height: 24px;
   background-size: contain;
   padding-bottom: 5%;
 }
-.sixthScreen h3{
-  padding-top: 2%;
-  padding-left: 5%;
-  margin-bottom: 2%;
-
+sixthScreen h3{
+  
 }
 .sixthScreen p {
   width: 80%;
