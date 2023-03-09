@@ -2,7 +2,6 @@
 
 import React from "react";
 import Navbar2 from "../Component/Navbar2";
-import Footer from '../Component/Footer'
 
 const SixthScreen = () => {
   return (
@@ -105,7 +104,7 @@ const SixthScreen = () => {
         <button>Book Consultation</button>
       </div>
       <hr className="sixthHr" />
-      <div className="sixthScreenSecond toNew">
+      <div className="sixthScreenSecond">
         <div>
           <p className="head">Want to talk to an expert if you need a service or a laywer?</p>
           <p className="desc">Just leave your details here and our experts will get back to discuss your needs.</p>

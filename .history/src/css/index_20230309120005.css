@@ -1488,7 +1488,6 @@ justify-content: space-evenly;
 align-items: center;
 padding-top: 2%;
 padding-bottom: 2%;
-margin-bottom: 5%;
 }
 .sixthScreenFirst p{
   margin: 0;
@@ -1511,44 +1510,5 @@ line-height: 30px;
 }
 
 .sixthScreenSecond {
-  display: flex;
-  justify-content: space-between;
-  gap: 2rem;
-  width: 90%;
-  margin-left: 5%;
-}
-.sixthScreenSecond button{
-  width: 150px;
-  height: 50px;
-  background-color: #0f2c64;
-  border: 1px solid #0f2c64;
-  color: #fff;
-
-}
-.sixthScreenSecond p{
-  margin: 0;
-}
-.sixthScreenSecond .head{
-  font-family: Open Sans;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 16.9312px;
-  line-height: 25px;
-}
-.sixthScreenSecond .desc{
-  font-family: Open Sans;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 13.545px;
-  line-height: 19px;
-}
-.sixthHr{
-  width: 90%;
-  margin-left: 5%;
-  margin-top: 5%;
-  margin-bottom: 5%;
-}
-
-.toNew{
-  margin-bottom: 5%;
+  display: ;
 }

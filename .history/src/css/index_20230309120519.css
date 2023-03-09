@@ -1535,20 +1535,10 @@ line-height: 30px;
   font-size: 16.9312px;
   line-height: 25px;
 }
-.sixthScreenSecond .desc{
+.sixthScreenSecond .head{
   font-family: Open Sans;
   font-style: normal;
   font-weight: 600;
-  font-size: 13.545px;
-  line-height: 19px;
-}
-.sixthHr{
-  width: 90%;
-  margin-left: 5%;
-  margin-top: 5%;
-  margin-bottom: 5%;
-}
-
-.toNew{
-  margin-bottom: 5%;
+  font-size: 16.9312px;
+  line-height: 25px;
 }
