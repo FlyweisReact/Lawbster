@@ -27,7 +27,6 @@ const UserSide = () => {
 
 
         <button>My Lawyers</button>
-        <button>Upcoming Consultation</button>
         <button>Instant Appointment</button>
         <button>Saved Documents</button>
         <button>Book Appointment</button>

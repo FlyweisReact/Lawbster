@@ -245,27 +245,17 @@ const Ninth = () => {
           </div>
           <div className="consult">
             <div>
-            <i class="fa-regular fa-calendar"></i>
+            <i class="fa-light fa-calendar"></i>
               <p>Availability</p>
             </div>
             <div> <p> {'>'} </p> </div>
           </div>
           <div className="consult">
             <div>
-            <i class="fa-solid fa-video"></i>
-              <p>Consultancy Cost @300/min</p>
+            <i class="fa-regular fa-message"></i>
+              <p>Consult Now</p>
             </div>
             <div> <p> {'>'} </p> </div>
-          </div>
-          <div className="consult">
-            <div><p>Status (Active)</p>
-            </div>
-            <div>
-
-              <div className="toogle-btn">
-                <span></span>
-              </div>
-            </div>
           </div>
         </div>
       </div>

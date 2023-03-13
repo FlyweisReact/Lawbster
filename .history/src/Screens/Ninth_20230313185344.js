@@ -262,9 +262,7 @@ const Ninth = () => {
             </div>
             <div>
 
-              <div className="toogle-btn">
-                <span></span>
-              </div>
+              <div className="toogle-btn"></div>
             </div>
           </div>
         </div>

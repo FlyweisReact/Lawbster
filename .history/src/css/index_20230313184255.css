@@ -2868,38 +2868,5 @@ font-weight: bold;
   font-weight: bolder;
 }
 .NinthFirst .rightFirst .consult{
-  display: flex ; 
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 5%;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  border-radius: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-.NinthFirst .rightFirst .consult div{
-  display: flex ; 
-  align-items: center;
-  gap: 10px;
-}
-.NinthFirst .rightFirst .consult div p{
- font-family: Open Sans ;
- font-size: 20px;
- margin-top: 10px;
- font-weight: bold;
-}
-.toogle-btn{
-  width: 60px;
-  border-radius: 50px;
-  background-color: #0F2B62;
-  height: 30px;
-  position: relative;
-}
-.toogle-btn span{
-width: 28px;
-height: 28px;
-position: absolute;
-left: 2px;
-background-color: #fff;
-border-radius: 100%;
+  
 }

@@ -257,16 +257,6 @@ const Ninth = () => {
             </div>
             <div> <p> {'>'} </p> </div>
           </div>
-          <div className="consult">
-            <div><p>Status (Active)</p>
-            </div>
-            <div>
-
-              <div className="toogle-btn">
-                <span></span>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </>

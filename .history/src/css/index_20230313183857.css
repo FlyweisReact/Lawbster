@@ -2825,7 +2825,6 @@ code {
 .NinthFirst .rightFirst .NinthSixth .under {
   display: flex;
   justify-content: space-between;
-  height: 70px;
 }
 .NinthFirst .rightFirst .NinthSixth .under .left {
   display: flex;
@@ -2854,52 +2853,8 @@ code {
 font-family: Open Sans ; 
 font-weight: bold;
 }
-.NinthFirst .rightFirst .NinthSixth .under .right .second{
+.NinthFirst .rightFirst .NinthSixth .under .right .secind{
   font-family: Inter;
-  font-weight: 300;
-  color: #b0b0b0;
-}
-
-.NinthFirst .rightFirst .NinthSixth .Alloy{
-  margin: 0;
-  text-align: center;
-  font-size: 24px;
-  font-family: Inter;
-  font-weight: bolder;
-}
-.NinthFirst .rightFirst .consult{
-  display: flex ; 
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 5%;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  border-radius: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-.NinthFirst .rightFirst .consult div{
-  display: flex ; 
-  align-items: center;
-  gap: 10px;
-}
-.NinthFirst .rightFirst .consult div p{
- font-family: Open Sans ;
- font-size: 20px;
- margin-top: 10px;
- font-weight: bold;
-}
-.toogle-btn{
-  width: 60px;
-  border-radius: 50px;
-  background-color: #0F2B62;
-  height: 30px;
-  position: relative;
-}
-.toogle-btn span{
-width: 28px;
-height: 28px;
-position: absolute;
-left: 2px;
-background-color: #fff;
-border-radius: 100%;
+  font-weight: 600;
+  color: #eeeeee;
 }

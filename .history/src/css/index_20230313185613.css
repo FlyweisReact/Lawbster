@@ -2897,9 +2897,7 @@ font-weight: bold;
 }
 .toogle-btn span{
 width: 28px;
-height: 28px;
-position: absolute;
-left: 2px;
+height: 28  px;
 background-color: #fff;
-border-radius: 100%;
+border-radius: 10px;
 }
