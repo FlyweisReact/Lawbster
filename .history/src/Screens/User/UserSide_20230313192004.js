@@ -30,7 +30,7 @@ const UserSide = () => {
 
         <button onClick={() => navigate("/ten")}>My Lawyers</button>
         <button onClick={() => navigate("/ninth")}>Upcoming Consultation</button>
-        <button onClick={() => navigate("/eleven")}>Instant Appointment</button>
+        <button onClick={() => navigate("/ten")}>Instant Appointment</button>
         <button>Saved Documents</button>
         <button>Book Appointment</button>
         <button>Legal Services</button>

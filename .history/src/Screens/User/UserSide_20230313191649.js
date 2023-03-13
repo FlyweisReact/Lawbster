@@ -1,6 +1,6 @@
 /** @format */
 
-import React from "react";
+import React, { useRef, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 
 const UserSide = () => {
@@ -29,8 +29,8 @@ const UserSide = () => {
         </div>
 
         <button onClick={() => navigate("/ten")}>My Lawyers</button>
-        <button onClick={() => navigate("/ninth")}>Upcoming Consultation</button>
-        <button onClick={() => navigate("/eleven")}>Instant Appointment</button>
+        <button ref={buttonRef} onClick={() => navigate("/ninth")}>Upcoming Consultation</button>
+        <button>Instant Appointment</button>
         <button>Saved Documents</button>
         <button>Book Appointment</button>
         <button>Legal Services</button>

@@ -1,7 +1,6 @@
 import React from 'react'
 import { BrowserRouter , Route , Routes } from 'react-router-dom'
 import EightScreen from './Screens/EightScreen'
-import ElevenScreen from './Screens/ElevenScreen'
 import FifthScreen from './Screens/FifthScreen'
 import Fourth from './Screens/Fourth'
 import HomeScreen from './Screens/HomeScreen'
@@ -27,7 +26,6 @@ const App = () => {
         <Route path='/eight' element={<EightScreen />} />
         <Route path='/ninth' element={<Ninth />} />
         <Route path='/ten' element={<TenScreen />} />
-        <Route path='/eleven' element={<ElevenScreen />} />
        </Routes>
     </BrowserRouter>
    </>
