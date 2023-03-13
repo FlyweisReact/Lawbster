@@ -1,0 +1,23 @@
+/** @format */
+
+import React, { useState } from "react";
+import CallBackModal from "../Modals/CallBackModal";
+
+const Phone = () => {
+  const [CallBackModalOpen, setCallBackOpen] = useState(false);
+
+  return (
+    <>
+      <CallBackModal
+        open={CallBackModalOpen}
+        onHide={() => setCallBackOpen(false)}
+      />
+      <div className="contactBtns">
+        <img src="./Images/18.png" alt=""  onClicc />
+        <img src="./Images/19.png" alt="" />
+      </div>
+    </>
+  );
+};
+
+export default Phone;
