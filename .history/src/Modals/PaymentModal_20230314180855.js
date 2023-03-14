@@ -1,0 +1,26 @@
+/** @format */
+
+import { useState } from "react";
+import { Modal } from "react-bootstrap";
+import { useNavigate } from "react-router-dom";
+
+function PaymentModal(props) {
+
+  return (
+    <>
+      <Modal
+        {...props}
+        size="sl"
+        aria-labelledby="contained-modal-title-vcenter"
+        className="newModal"
+        centered
+      >
+        <Modal.Body>
+       
+        </Modal.Body>
+      </Modal>
+    </>
+  );
+}
+
+export default PaymentModal;
