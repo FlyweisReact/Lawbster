@@ -14,11 +14,8 @@
   .HocSection {
     min-height: 100vh;
   }
-  .UserSideBar{
-    min-height: 106vh;
-  }
-  .UserNav{
-    padding-right: 5%;
+  .HocSide {
+    padding-bottom: 25%;
   }
 }
 

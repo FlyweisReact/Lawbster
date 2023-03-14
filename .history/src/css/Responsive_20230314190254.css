@@ -14,12 +14,6 @@
   .HocSection {
     min-height: 100vh;
   }
-  .UserSideBar{
-    min-height: 106vh;
-  }
-  .UserNav{
-    padding-right: 5%;
-  }
 }
 
 @media screen and (min-width: 600px) and (max-width: 980px) {

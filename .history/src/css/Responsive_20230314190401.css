@@ -12,13 +12,10 @@
     max-width: 400px;
   }
   .HocSection {
-    min-height: 100vh;
+    min-height: 120vh;
   }
   .UserSideBar{
-    min-height: 106vh;
-  }
-  .UserNav{
-    padding-right: 5%;
+    
   }
 }
 

@@ -2443,7 +2443,7 @@ code {
 .UserSideBar {
   background: linear-gradient(180deg, #0f2c64 0%, #0d2450 100%);
   width: 300px;
-  min-height: 100vh;
+  min-height: 100%;
 }
 .UserSideBar .two-Sec {
   display: flex;

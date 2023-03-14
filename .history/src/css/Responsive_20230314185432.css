@@ -1,0 +1,159 @@
+/**
+ * Desktop
+ *
+ * @format
+ */
+
+ @media screen and (min-width: 780px) and (max-width: 1500px) {
+    .NinthFirst .left {
+        width: 500px;
+    }
+    .NinthFirst .left .two-sec{
+        height: 200px;
+    }
+    .NinthFirst .rightFirst {
+        max-width: 400px;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 980px) {
+  .nav {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+  }
+  .nav .left {
+    width: 90%;
+  }
+  .nav .left ul li {
+    font-size: 16px;
+    margin-right: 20px;
+  }
+  .nav .left .specialNavList {
+    min-width: 95px;
+  }
+
+  .nav .left .search {
+    margin-left: 0px;
+  }
+  .nav .right button {
+    margin-top: 15px;
+  }
+
+  .homeThreeSec{
+    grid-template-columns: auto auto;
+    padding-bottom: 10%;
+  }
+  .HomeThreeSec p{
+    max-width: 200px;
+  }
+  .footer .upper {
+    grid-template-columns: auto auto;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 760px) {
+    .nav .left ul{
+        display: none;
+    }
+    .nav .left .search{
+        display: none;
+    }
+    .nav .right{
+        display: none;
+    }
+    .home2btn{
+        margin-top: 8%;
+        width: 80%;
+    }
+    .home2btn button {
+        font-size: 16px;
+    }
+
+    .homeThreeSec{
+        padding-top: 30%;
+        grid-template-columns: auto;
+        width: 100%;
+        padding: 10px;
+        padding-bottom: 30%;
+    }
+    .homeThreeSec .main{
+        margin: 10px;
+    }
+    .HomeThreeSec{
+      display: block;
+    }
+    .HomeThreeSec div{
+        margin-top: 20px !important;
+        margin: auto;
+    }
+    .homeFistSec{
+        width: 100%;
+    }
+    .homeFistSec .two-btn {
+        display: block  !important;
+    }
+    .homeFistSec .two-btn button{
+        font-size: 16px;
+        width: 300px;
+        margin-top: 20px;
+    }
+
+
+    .footer .upper {
+        grid-template-columns: auto;
+        justify-content: center  !important;
+        padding-top: 15%;
+    }
+    .footer .upper .head {
+        margin-left: 50px;
+        
+    }
+    .footer .upper .specialHead {
+        margin-left: 100px;
+        
+    }
+    .footer .upper .desc{
+        margin-left: 80px;
+        text-align: left;
+
+    }
+    .footer .upper img{
+        margin-left: 80px;
+    }
+    .footer .upper ul li {
+        margin-left: 50px;
+    }
+    .footer .upper .downWard .head{
+        margin-left: 100px;
+
+    }
+    .footer .upper .downWard ul li{
+        margin-left: 0;
+    }
+    .footer .upper .downWard ul li i{
+        margin-left: 50px;
+    }
+    .homePageCarosel{
+        width: 100% !important;
+        position: relative;
+    }
+    .CImage{
+        width: 70%;
+    }
+    .carouselPrev{
+        left: 90%;
+        width: 25px  !important;
+        height: 25px  !important;
+    }
+    .carouselNext{
+        left: 10%;
+        width: 25px  !important;
+        height: 25px  !important;
+    }
+  
+    .HomeCenterInput{
+        width: 400px;
+        margin-bottom: 5%;
+    }
+}
