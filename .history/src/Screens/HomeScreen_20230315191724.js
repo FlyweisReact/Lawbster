@@ -1,6 +1,6 @@
 /** @format */
 
-import React, {  useState } from "react";
+import React, { useEffect, useState } from "react";
 import Footer from "../Component/Footer";
 import HomeCarousel from "../Component/HomeCarousel";
 import LogoCarousel from "../Component/LogoCarousel";

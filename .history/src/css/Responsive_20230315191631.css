@@ -1,4 +1,5 @@
 /** @format */
+
 @media screen and (min-width: 780px) and (max-width: 1500px) {
   .HocSection {
     min-height: 880px;
@@ -78,6 +79,7 @@
     width: 400px;
   }
   .newUU {
+    /* border: 1px solid black; */
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     padding: 10px;
     margin-bottom: 50px !important;
@@ -88,7 +90,7 @@
   }
 }
 
-@media screen and (min-width: 600px) and (max-width: 1200px) {
+@media screen and (min-width: 600px) and (max-width: 980px) {
   .nav {
     display: flex;
     gap: 10px;

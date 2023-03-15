@@ -88,11 +88,12 @@
   }
 }
 
-@media screen and (min-width: 600px) and (max-width: 1200px) {
+@media screen and (min-width: 600px) and (max-width: 1000px) {
   .nav {
-    display: flex;
+    /* display: flex;
     gap: 10px;
-    width: 100%;
+    width: 100%; */
+    display: none;
   }
   .nav .left {
     width: 90%;
