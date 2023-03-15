@@ -2147,7 +2147,7 @@ code {
 }
 
 .seventScreen .seventScreenFivth .threeSec .centerONe h3 {
-  font-family: Open Sans;
+  font-family: Inter;
   font-style: normal;
   font-weight: 900;
   font-size: 36.4053px;
@@ -2164,7 +2164,7 @@ code {
   color: #000000;
 }
 .seventScreen .seventScreenFivth .threeSec .centerONe h5 {
-  font-family: Open Sans;
+  font-family: Inter;
   font-style: normal;
   font-weight: 600;
   font-size: 24.096px;
@@ -2182,18 +2182,18 @@ code {
   font-weight: 700;
   font-size: 24.096px;
   line-height: 36px;
-  font-family: Open Sans;
+  font-family: Inter;
 }
 .seventScreen .seventScreenFivth .threeSec .centerONe h6 {
   font-style: normal;
   font-weight: 700;
   font-size: 24.096px;
   line-height: 36px;
-  font-family: Open Sans;
+  font-family: Inter;
 }
 
 .seventScreen .seventScreenFivth .threeSec .RightONe h4 {
-  font-family: Open Sans;
+  font-family: Inter;
   font-style: normal;
   font-weight: 900;
   font-size: 21.9289px;
@@ -2202,7 +2202,8 @@ code {
   margin: 0;
 }
 .seventScreen .seventScreenFivth .threeSec .RightONe h2 {
-  font-family: Open Sans;
+  /* font-family: Inter; */
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 25px;

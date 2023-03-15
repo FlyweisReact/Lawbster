@@ -48,26 +48,12 @@
     width: 60px;
   }
   .seventScreen .seventScreenFivth .threeSec .centerONe h6 {
-    font-size: 14px;
-    margin: 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24.096px;
+    line-height: 36px;
+    font-family: Open Sans;
   }
-  .seventScreen .seventScreenFivth .threeSec .RightONe h4 {
-    font-size: 16px;
-    margin: 0  !important;
-  }
-  .seventScreen .seventScreenFivth .threeSec .RightONe h2 {
-    font-size: 20px;
-    font-weight: bold;
-    margin: 0  !important; 
-  }
-  
-.seventScreen .seventScreenFivth .threeSec .RightONe button {
-  margin-top: 10px;
-  font-size: 16px;
-  padding: 0px;
-  width: 100px;
-  border-radius: 0px;
-}
 }
 
 @media screen and (min-width: 600px) and (max-width: 980px) {

@@ -30,44 +30,10 @@
   .seventScreen .seventScreenFivth .threeSec .centerONe h3 {
     font-size: 23px;
     margin: 0;
-    
   }
   .seventScreen .seventScreenFivth .threeSec .centerONe h4 {
     font-size: 20px;
-    margin: 0;
   }
-  .seventScreen .seventScreenFivth .threeSec .centerONe h5 {
-    font-size: 18px;
-    margin: 0;
-  }
-  .seventScreen .seventScreenFivth .threeSec .centerONe .twoTwo h6 {
-    font-size: 16px;
-    margin: 0;
-  }
-  .seventScreen .seventScreenFivth .threeSec .centerONe .twoTwo img {
-    width: 60px;
-  }
-  .seventScreen .seventScreenFivth .threeSec .centerONe h6 {
-    font-size: 14px;
-    margin: 0;
-  }
-  .seventScreen .seventScreenFivth .threeSec .RightONe h4 {
-    font-size: 16px;
-    margin: 0  !important;
-  }
-  .seventScreen .seventScreenFivth .threeSec .RightONe h2 {
-    font-size: 20px;
-    font-weight: bold;
-    margin: 0  !important; 
-  }
-  
-.seventScreen .seventScreenFivth .threeSec .RightONe button {
-  margin-top: 10px;
-  font-size: 16px;
-  padding: 0px;
-  width: 100px;
-  border-radius: 0px;
-}
 }
 
 @media screen and (min-width: 600px) and (max-width: 980px) {

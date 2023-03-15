@@ -45,29 +45,8 @@
     margin: 0;
   }
   .seventScreen .seventScreenFivth .threeSec .centerONe .twoTwo img {
-    width: 60px;
+    width: 20px;
   }
-  .seventScreen .seventScreenFivth .threeSec .centerONe h6 {
-    font-size: 14px;
-    margin: 0;
-  }
-  .seventScreen .seventScreenFivth .threeSec .RightONe h4 {
-    font-size: 16px;
-    margin: 0  !important;
-  }
-  .seventScreen .seventScreenFivth .threeSec .RightONe h2 {
-    font-size: 20px;
-    font-weight: bold;
-    margin: 0  !important; 
-  }
-  
-.seventScreen .seventScreenFivth .threeSec .RightONe button {
-  margin-top: 10px;
-  font-size: 16px;
-  padding: 0px;
-  width: 100px;
-  border-radius: 0px;
-}
 }
 
 @media screen and (min-width: 600px) and (max-width: 980px) {
