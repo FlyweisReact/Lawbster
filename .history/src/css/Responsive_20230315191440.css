@@ -81,17 +81,15 @@
   margin-top: 0px;
 }
 .seventScreen .left .mid .centerDiv{
-  width: 400px;
+  width: ;
 }
 .newUU{
   /* border: 1px solid black; */
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   padding: 10px;
   margin-bottom: 50px !important;
-  padding-left: 50px;
-  padding-right:50px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 }
 
