@@ -2145,7 +2145,6 @@ code {
   justify-content: space-evenly;
   grid-template-columns: auto auto auto;
   justify-items: center;
-  align-items: center;
 }
 
 .seventScreen .seventScreenFivth .threeSec .centerONe h3 {

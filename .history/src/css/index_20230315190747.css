@@ -171,6 +171,7 @@ code {
 .homeThreeSec .main .first {
   display: flex;
   gap: 20px;
+  align-items;
 }
 .homeThreeSec .main .first img {
   width: 37.25px;
@@ -2144,8 +2145,6 @@ code {
   display: grid;
   justify-content: space-evenly;
   grid-template-columns: auto auto auto;
-  justify-items: center;
-  align-items: center;
 }
 
 .seventScreen .seventScreenFivth .threeSec .centerONe h3 {

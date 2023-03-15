@@ -71,15 +71,7 @@
 .homeThreeSec .second .under .two i{
   margin-top: 10px;
 }
-.homeThreeSec .second .under .two img{
-  margin-top: 10px;
-}
-.homeThreeSec .second .under .two p {
-  margin-top: 7px;
-}
-.homeThreeSec .main .first img{
-  margin-top: 0px;
-}
+
 }
 
 @media screen and (min-width: 600px) and (max-width: 980px) {

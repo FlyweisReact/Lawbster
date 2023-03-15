@@ -192,7 +192,7 @@ code {
   gap: 20px;
 }
 .homeThreeSec .second .under .two i {
-  margin-top: 20px;
+  /* margin-top: 20px; */
   color: #ff495c;
 }
 .homeThreeSec .second .under .two p {
@@ -2144,8 +2144,6 @@ code {
   display: grid;
   justify-content: space-evenly;
   grid-template-columns: auto auto auto;
-  justify-items: center;
-  align-items: center;
 }
 
 .seventScreen .seventScreenFivth .threeSec .centerONe h3 {

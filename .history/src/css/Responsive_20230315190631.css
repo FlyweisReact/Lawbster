@@ -68,17 +68,8 @@
   width: 100px;
   border-radius: 0px;
 }
-.homeThreeSec .second .under .two i{
-  margin-top: 10px;
-}
-.homeThreeSec .second .under .two img{
-  margin-top: 10px;
-}
-.homeThreeSec .second .under .two p {
-  margin-top: 7px;
-}
-.homeThreeSec .main .first img{
-  margin-top: 0px;
+.homeThreeSec .second .under .two {
+  align-items: center;
 }
 }
 
