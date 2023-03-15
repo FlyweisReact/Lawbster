@@ -160,7 +160,7 @@ const SecondScreen = () => {
 
       <div className="secondScreenTwo2">
         <div className="left">
-          <p className="head">Technology</p>
+          <p className="head">The Problem</p>
           <p className="desc">
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
             nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam

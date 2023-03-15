@@ -799,8 +799,7 @@ code {
   margin-top: 3%;
 }
 .secondScreenTwo2 .left .head {
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
+  font-family: Open Sans;
   font-style: normal;
   font-weight: 900;
   margin-left: 20px;
@@ -1122,9 +1121,8 @@ code {
   margin: 0;
 }
 .thirdScreenSecond .left .head {
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
-  font-weight: 600;
+  font-family: Open Sans;
+  font-weight: 400;
   font-size: 17px;
   line-height: 20px;
 }
@@ -1812,7 +1810,7 @@ code {
 }
 .seventScreen .right .upper div .head {
   /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
+  
   font-style: normal;
   font-weight: 700;
   font-size: 25px;
@@ -1888,8 +1886,7 @@ code {
   color: #1d1d1d;
 }
 .seventScreen .left .mid .over {
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
+  font-family: Open Sans;
   font-weight: 700;
   font-size: 16.9404px;
   color: #0f2c64;
@@ -2098,8 +2095,7 @@ code {
   padding: 10px;
 }
 .seventScreen .seventScreenFourth .head {
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
+  font-family: Open Sans;
   font-style: normal;
   font-weight: 700;
   font-size: 16.9404px;
@@ -2133,8 +2129,7 @@ code {
   cursor: pointer;
 }
 .seventScreen .seventScreenFivth .head {
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
+  font-family: Open Sans;
   font-style: normal;
   font-weight: 700;
   font-size: 16.9404px;
@@ -2203,8 +2198,7 @@ code {
   margin: 0;
 }
 .seventScreen .seventScreenFivth .threeSec .RightONe h2 {
-  /* font-family: Inter; */
-  font-family: 'Poppins', sans-serif;
+  font-family: Inter;
   font-style: normal;
   font-weight: 900;
   font-size: 25px;

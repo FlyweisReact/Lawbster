@@ -1,8 +1,5 @@
 /** @format */
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto+Serif&display=swap');
-
-
 @font-face {
   font-family: Cookie;
   src: url(../Font/Cookie-Regular.ttf);
@@ -11,8 +8,6 @@
   font-family: Poppins;
   src: url(../Font/Poppins-Light.ttf);
 }
-
-
 
 /* ------------- */
 body {
@@ -355,7 +350,7 @@ code {
   font-size: 28px;
   font-weight: bolder;
   margin: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: Poppins;
 }
 .homeFistSec .desc {
   margin: 0;
@@ -799,8 +794,7 @@ code {
   margin-top: 3%;
 }
 .secondScreenTwo2 .left .head {
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
+  font-family: Open Sans;
   font-style: normal;
   font-weight: 900;
   margin-left: 20px;
@@ -1122,9 +1116,8 @@ code {
   margin: 0;
 }
 .thirdScreenSecond .left .head {
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
-  font-weight: 600;
+  font-family: Open Sans;
+  font-weight: 400;
   font-size: 17px;
   line-height: 20px;
 }
@@ -1710,14 +1703,13 @@ code {
 }
 .LocationModal .fourSec ul li {
   list-style: none;
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
+  font-family: Open Sans;
   font-style: normal;
   font-weight: bolder;
   font-size: 18px;
   line-height: 21px;
   color: #0f2c64;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .seventSecond {
@@ -1811,8 +1803,7 @@ code {
   margin: 0;
 }
 .seventScreen .right .upper div .head {
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
+  font-family: Open Sans;
   font-style: normal;
   font-weight: 700;
   font-size: 25px;
@@ -1888,8 +1879,7 @@ code {
   color: #1d1d1d;
 }
 .seventScreen .left .mid .over {
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
+  font-family: Open Sans;
   font-weight: 700;
   font-size: 16.9404px;
   color: #0f2c64;
@@ -2098,8 +2088,7 @@ code {
   padding: 10px;
 }
 .seventScreen .seventScreenFourth .head {
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
+  font-family: Open Sans;
   font-style: normal;
   font-weight: 700;
   font-size: 16.9404px;
@@ -2133,8 +2122,7 @@ code {
   cursor: pointer;
 }
 .seventScreen .seventScreenFivth .head {
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
+  font-family: Open Sans;
   font-style: normal;
   font-weight: 700;
   font-size: 16.9404px;
@@ -2203,8 +2191,7 @@ code {
   margin: 0;
 }
 .seventScreen .seventScreenFivth .threeSec .RightONe h2 {
-  /* font-family: Inter; */
-  font-family: 'Poppins', sans-serif;
+  font-family: Inter;
   font-style: normal;
   font-weight: 900;
   font-size: 25px;

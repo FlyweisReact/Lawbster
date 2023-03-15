@@ -800,7 +800,7 @@ code {
 }
 .secondScreenTwo2 .left .head {
   /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
+  'Poppins', sans-serif
   font-style: normal;
   font-weight: 900;
   margin-left: 20px;
@@ -1122,9 +1122,8 @@ code {
   margin: 0;
 }
 .thirdScreenSecond .left .head {
-  /* font-family: Open Sans; */
-  font-family: 'Poppins', sans-serif;
-  font-weight: 600;
+  font-family: Open Sans;
+  font-weight: 400;
   font-size: 17px;
   line-height: 20px;
 }

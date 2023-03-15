@@ -19,9 +19,7 @@ const HomeScreen = () => {
     setIsOn(!isOn);
   };
 
-  useEffect(() =>{ 
-    window.scrollTo(0,0)
-  },[])
+  useEffect
 
   return (
     <>
