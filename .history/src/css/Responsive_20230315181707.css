@@ -5,9 +5,22 @@
  */
 
 @media screen and (min-width: 780px) and (max-width: 1500px) {
-.NinthFirst{
-  display: none;
-}
+  .NinthFirst .left {
+    
+    width: 550px;
+  }
+  .NinthFirst .rightFirst {
+    max-width: 400px;
+  }
+  .HocSection {
+    min-height: 100vh;
+  }
+  .UserSideBar{
+    min-height: 106vh;
+  }
+  .UserNav{
+    padding-right: 5%;
+  }
 }
 
 @media screen and (min-width: 600px) and (max-width: 980px) {
