@@ -5,13 +5,9 @@
  */
 
 @media screen and (min-width: 780px) and (max-width: 1500px) {
-
-  .HocSection{
-    min-height:880px ;
-  }
-  .UserSideBar{
-   height: 940px;
-  }
+.UserSideBar{
+  height: 1000px;
+}
 }
 
 @media screen and (min-width: 600px) and (max-width: 980px) {

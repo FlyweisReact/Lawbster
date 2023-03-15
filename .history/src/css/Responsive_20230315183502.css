@@ -7,10 +7,11 @@
 @media screen and (min-width: 780px) and (max-width: 1500px) {
 
   .HocSection{
-    min-height:880px ;
+    min-height:900px ;
   }
   .UserSideBar{
-   height: 940px;
+   height: 900px;
+   padding-bottom: 15% Im !important
   }
 }
 
