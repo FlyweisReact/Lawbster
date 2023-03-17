@@ -97,7 +97,7 @@ const EightScreen = () => {
             <button onClick={() => setThankYouOpen(true)}>Pay Now</button>
           </div>
 
-          <img src="./Images/92.png" alt="" style={{ marginTop: "20px" }} className='paymentImage' />
+          <img src="./Images/92.png" alt="" style={{ marginTop: "20px" }} className />
           <div className="down">
             <div className="two-sec">
               <img src="./Images/93.png" alt="" />
