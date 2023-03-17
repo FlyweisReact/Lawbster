@@ -6,12 +6,7 @@ import Navbar2 from "../Component/Navbar2";
 
 const FifthScreen = () => {
 
-  useEffect(() => {
-    alert('dsad')
-    window.scrollTo(0,0)
-  },[])
-
-  
+  useEffect(() => {})
   return (
     <>
       <Navbar2 />

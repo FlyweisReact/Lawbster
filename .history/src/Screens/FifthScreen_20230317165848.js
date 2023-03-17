@@ -1,17 +1,15 @@
 /** @format */
 
 import React, { useEffect } from "react";
+import { Alert } from "react-bootstrap";
 import Footer from "../Component/Footer";
 import Navbar2 from "../Component/Navbar2";
 
 const FifthScreen = () => {
 
   useEffect(() => {
-    alert('dsad')
-    window.scrollTo(0,0)
-  },[])
-
-  
+    Alert('A')
+  })
   return (
     <>
       <Navbar2 />

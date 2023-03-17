@@ -8,10 +8,7 @@ const FifthScreen = () => {
 
   useEffect(() => {
     alert('dsad')
-    window.scrollTo(0,0)
-  },[])
-
-  
+  })
   return (
     <>
       <Navbar2 />
