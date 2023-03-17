@@ -887,8 +887,7 @@
       display: block;
     }
     .SignInModal form .icons div{
-      width: 80%;
-      margin-top: 20px;
-      padding-top: 10px;
+      width: 100%;
+      margin-top: ;
     }
 }
