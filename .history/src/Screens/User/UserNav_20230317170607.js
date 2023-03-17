@@ -20,7 +20,7 @@ const UserNav = () => {
 
   useEffect(() => {
     alert('dsad')
-  },[])
+  })
 
   return (
     <>

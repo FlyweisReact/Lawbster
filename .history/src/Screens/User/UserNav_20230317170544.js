@@ -1,6 +1,6 @@
 /** @format */
 
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import FilterModal from "../../Modals/FilterModal";
 import RemModal from "../../Modals/RemModal";
@@ -16,11 +16,7 @@ const UserNav = () => {
   const handleShow = () => setShow(true);
 
   const navigate = useNavigate();
-
-
-  useEffect(() => {
-    alert('dsad')
-  },[])
+  
 
   return (
     <>
