@@ -734,9 +734,9 @@
     display: block;
   }
   .thirdScreenSecond img{
-    width: 350px;
-    display: block !important;
+    display: block;
     margin: auto;
+    width: 350px;
   }
   .secondScreenThreeSec{
     display: block !important;
