@@ -10,7 +10,7 @@ const ThirdScreen = () => {
 
   useEffect(() => {
     alert('added')
-  },[])
+  })
   return (
     <>
       <Navbar2 />
