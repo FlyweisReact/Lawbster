@@ -1,6 +1,6 @@
 /** @format */
 
-import React, {  useEffect, useState } from "react";
+import React, {  useState } from "react";
 import Footer from "../Component/Footer";
 import HomeCarousel from "../Component/HomeCarousel";
 import LogoCarousel from "../Component/LogoCarousel";
@@ -18,10 +18,6 @@ const HomeScreen = () => {
   const handleClick = () => {
     setIsOn(!isOn);
   };
-
-  useEffect(() => {
-    alert('New Added')
-  },[])
 
 
   return (

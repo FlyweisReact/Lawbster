@@ -20,8 +20,8 @@ const HomeScreen = () => {
   };
 
   useEffect(() => {
-    alert('New Added')
-  },[])
+    
+  })
 
 
   return (
