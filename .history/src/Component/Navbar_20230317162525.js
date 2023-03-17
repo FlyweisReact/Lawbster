@@ -63,22 +63,10 @@ const Navbar = () => {
         <Offcanvas.Body>
           <div className="sidebar">
             <ul>
-              <li
-                onClick={() => {
-                  handleClose();
-                  setModalShow(true);
-                }}
-              >
-                Services
-              </li>
-              <li
-                onClick={() => {
-                  handleClose();
-                  setOpen(true);
-                }}
-              >
-                Consultation
-              </li>
+              <li onClick={() => {
+                handleClose()
+                setModalShow(true)}}>Services</li>
+              <li onClick={() => setOpen(true)}>Consultation</li>
               <li onClick={() => navigate("/second")}>For Lawyers</li>
               <li onClick={() => navigate("/third")}>Businesses</li>
             </ul>

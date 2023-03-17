@@ -151,7 +151,6 @@
   .consultationModal .right {
     width: 100%;
   }
-
   .CallBackForm form .main {
     width: 90%;
   }
@@ -529,7 +528,7 @@
     margin-top: 0 !important;
     padding-bottom: 5%;
   }
-
+  .consultationModal .right .threeSec
   .consultationModal .consultationRight .head {
     margin-top: 0px;
     padding-top: 20px;
@@ -865,13 +864,4 @@
     width: 90%;
   }
 
-
-
-  .consultationModal .right .threeSec{
-    grid-template-columns: auto auto;
-  }
-
-    .LocationModal .sixSec {
-      grid-template-columns: auto auto;
-    }
 }

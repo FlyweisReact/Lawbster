@@ -16,7 +16,7 @@ const EightScreen = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    alert('New Added')
+    alert('')
   }, []);
 
   return (

@@ -865,13 +865,4 @@
     width: 90%;
   }
 
-
-
-  .consultationModal .right .threeSec{
-    grid-template-columns: auto auto;
-  }
-
-    .LocationModal .sixSec {
-      grid-template-columns: auto auto;
-    }
 }
