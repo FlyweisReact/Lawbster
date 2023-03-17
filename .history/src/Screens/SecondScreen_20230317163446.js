@@ -8,7 +8,6 @@ import Phone from "../Component/Phone";
 const SecondScreen = () => {
 
   useEffect(() => {
-    alert('Gif Change')
     window.scrollTo(0,0)
   },[])
 

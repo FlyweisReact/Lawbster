@@ -1,6 +1,6 @@
 /** @format */
 
-import React, { useEffect } from "react";
+import React from "react";
 import Footer from "../Component/Footer";
 import Navbar from "../Component/Navbar";
 import Phone from "../Component/Phone";
@@ -8,10 +8,13 @@ import Phone from "../Component/Phone";
 const SecondScreen = () => {
 
   useEffect(() => {
-    alert('Gif Change')
-    window.scrollTo(0,0)
-  },[])
-
+    first
+  
+    return () => {
+      second
+    }
+  }, [third])
+  
   return (
     <>
     <Phone />
