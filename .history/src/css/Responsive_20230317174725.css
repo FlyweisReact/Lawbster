@@ -957,5 +957,7 @@
   .homeThreeSec .main .first img{
     margin-top: 10px;
   }
-
+  .homeThreeSec .second .under .alone{
+    font-size: 16px;
+  }
 }
