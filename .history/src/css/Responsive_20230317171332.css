@@ -830,7 +830,7 @@
     height: 300px;
   }
   .NinthFirst .left .two-sec {
-    height: 280px;
+    height: 260px;
     padding-top: 20px;
   }
 
@@ -930,9 +930,5 @@
         display: block;
         margin: auto;
         margin-top: 20px;
-      }
-
-      .filterModal button{
-        width: 90%;
       }
 }

@@ -8,7 +8,6 @@ const Ninth = () => {
   useEffect(() => {
     window.scrollTo(0,0)
   },[])
-  
   return (
     <>
       <h4 className="centerNinthHeading">Upcoming Consultation</h4>
