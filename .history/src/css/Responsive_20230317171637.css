@@ -831,6 +831,7 @@
   }
   .NinthFirst .left .two-sec {
     height: 300px;
+    width: 100%;
     padding-top: 20px;
   }
 
@@ -839,7 +840,6 @@
     display: block;
     margin: auto;
     max-height: 400px;
-    margin-top: 5%;
   }
   .twelveFirst {
     display: block;
