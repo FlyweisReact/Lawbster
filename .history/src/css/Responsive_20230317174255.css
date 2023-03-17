@@ -929,13 +929,13 @@
     width: 90%;
   }
   .homeThreeSec .second .under .two{
-    gap: 5px;
+    gap: 10px;
   }
   .homeThreeSec .second .under .two i {
-   margin-top:3px;
+   margin-top:5px;
   }
   .homeThreeSec .second .under .two img {
-    margin-top: 3px;
+    margin-top: 4px;
   }
   .logoImage{
     width: 150px !important;
