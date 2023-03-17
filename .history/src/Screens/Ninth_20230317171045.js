@@ -6,9 +6,8 @@ import HOC from "./User/HOC";
 const Ninth = () => {
 
   useEffect(() => {
-    window.scrollTo(0,0)
-    alert('dsa')
-  },[])
+    window.sc
+  })
   return (
     <>
       <h4 className="centerNinthHeading">Upcoming Consultation</h4>

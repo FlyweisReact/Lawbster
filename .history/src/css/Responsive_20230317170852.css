@@ -803,7 +803,7 @@
     border: none;
   }
   .UserNav .mid input {
-    display: none;
+    width: 50px;
   }
   .UserNav .mid button {
     width: 131px;
@@ -827,7 +827,7 @@
   }
   .NinthFirst .left {
     width: 100%;
-    min-height: 300px;
+    height: 300px;
   }
   .NinthFirst .left .two-sec {
     height: 240px;
