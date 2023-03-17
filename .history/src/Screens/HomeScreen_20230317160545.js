@@ -19,7 +19,7 @@ const HomeScreen = () => {
     setIsOn(!isOn);
   };
 
-  alert('new')
+  alert
 
   return (
     <>

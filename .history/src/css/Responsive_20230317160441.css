@@ -426,13 +426,8 @@
   .homeFistSec {
     max-width: 90%;
   }
-  .homeFistSec .two-btn{
-    gap: 10px;
-  }
   .homeFistSec .two-btn button {
-    width: 200px;
-    height: 60px;
-    padding: 0;
+    width: 180px;
   }
   .footer .upper {
     grid-template-columns: auto auto;
