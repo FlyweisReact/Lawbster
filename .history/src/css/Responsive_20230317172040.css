@@ -428,13 +428,13 @@
     max-width: 90%;
   }
   .homeFistSec .two-btn {
-    display: block;
+    gap: 10px;
+    align-items: center;
   }
   .homeFistSec .two-btn button {
-    width: 100%;
+    width: 200px;
     height: 100%;
     padding: 8px;
-    margin-top: 10px;
   }
   .footer .upper {
     grid-template-columns: auto auto;
@@ -929,21 +929,10 @@
     width: 90%;
   }
 
-  .homeThreeSec .second .under .two i {
-   margin-top:5px;
-  }
-  .homeThreeSec .second .under .two img {
-    margin-top: 5px;
-  }
-  .logoImage{
-    width: 150px !important;
-    height: 80px;
-  }
-  .home2btn{
-    margin-top: 5% !important;
-  }
-  .home2btn button{
-    font-size: 14px;
-    padding: 0;
-  }
+
+
+
+
+
+  
 }

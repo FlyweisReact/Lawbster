@@ -427,14 +427,14 @@
   .homeFistSec {
     max-width: 90%;
   }
-  .homeFistSec .two-btn {
-    display: block;
+  .homeFistSec .two-btn{
+    gap: 10px;
+    align-items: center;
   }
   .homeFistSec .two-btn button {
-    width: 100%;
+    width: 200px;
     height: 100%;
     padding: 8px;
-    margin-top: 10px;
   }
   .footer .upper {
     grid-template-columns: auto auto;
@@ -622,43 +622,43 @@
     text-align: left;
   }
 
-  .seventScreen .seventScreenFivth .threeSec .centerONe h3 {
+  .seventScreen .seventScreenFivth .threeSec .centerONe h3{
     font-size: 20px;
     margin: 0;
     margin-bottom: 0 !important;
   }
-  .seventScreen .seventScreenFivth .threeSec img {
+  .seventScreen .seventScreenFivth .threeSec img{
     width: 120px;
   }
-  .seventScreen .seventScreenFivth .threeSec .centerONe h4 {
+  .seventScreen .seventScreenFivth .threeSec .centerONe h4{
     font-size: 18px;
     margin: 0;
     margin-top: 0 !important;
   }
-  .seventScreen .seventScreenFivth .threeSec .centerONe h5 {
+  .seventScreen .seventScreenFivth .threeSec .centerONe h5{
     font-size: 16px;
     margin: 0;
     margin-top: 0 !important;
   }
-  .seventScreen .seventScreenFivth .threeSec .centerONe .twoTwo h6 {
+  .seventScreen .seventScreenFivth .threeSec .centerONe .twoTwo h6{
     font-size: 14px;
   }
-  .seventScreen .seventScreenFivth .threeSec .centerONe .twoTwo img {
+  .seventScreen .seventScreenFivth .threeSec .centerONe .twoTwo img{
     width: 70px;
   }
-  .seventScreen .seventScreenFivth .threeSec .centerONe h6 {
+  .seventScreen .seventScreenFivth .threeSec .centerONe h6{
     font-size: 16px;
     margin: 0;
   }
-  .seventScreen .seventScreenFivth .threeSec .RightONe h4 {
+  .seventScreen .seventScreenFivth .threeSec .RightONe h4{
     font-size: 20px;
     margin: 0;
   }
-  .seventScreen .seventScreenFivth .threeSec .RightONe h2 {
+  .seventScreen .seventScreenFivth .threeSec .RightONe h2{
     font-size: 22px;
-    margin: 0 !important;
+    margin: 0  !important;
   }
-  .seventScreen .seventScreenFivth .threeSec .RightONe button {
+  .seventScreen .seventScreenFivth .threeSec .RightONe button{
     margin-top: 5px;
     font-size: 20px;
     line-height: 35px;
@@ -676,13 +676,13 @@
     margin: auto;
   }
 
-  .eightSecond {
+  .eightSecond{
     width: 90%;
   }
-  .eightThird {
+  .eightThird{
     display: block;
   }
-  .eightThird .left {
+  .eightThird .left{
     width: 90%;
     display: block;
     margin: auto;
@@ -696,81 +696,84 @@
   .Navbar2 .mid {
     display: none;
   }
-  .Navbar2 .right button {
+  .Navbar2 .right button{
     display: none;
   }
-
-  .Navbar2 .right .fa-bars {
+  
+  .Navbar2 .right .fa-bars{
     display: block;
     font-size: 25px;
     cursor: pointer;
     margin-top: 10px;
   }
 
-  .thirdScreenBanner {
+  .thirdScreenBanner{
     background-size: cover;
     padding-bottom: 25%;
   }
-  .thirdScreenBanner .main .head {
+  .thirdScreenBanner .main .head{
     font-size: 28px;
   }
-  .thirdScreenBanner .main .desc {
+  .thirdScreenBanner .main .desc{
     width: 80%;
     display: block;
     margin: auto;
   }
-  .thirdScreenBanner p {
+  .thirdScreenBanner p{
     margin: 0;
   }
-  .thirdScreenFirst {
+  .thirdScreenFirst{
     height: 200px;
   }
-  .thirdScreenFirst img {
+  .thirdScreenFirst img{
     width: 350px;
     top: 12%;
   }
 
-  .thirdScreenSecond {
+  .thirdScreenSecond{
     display: block;
   }
-  .thirdScreenSecond img {
+  .thirdScreenSecond img{
     width: 350px;
     display: block !important;
     margin: auto;
   }
-  .secondScreenThreeSec {
+  .secondScreenThreeSec{
     display: block !important;
     text-align: center;
     padding: 20px;
   }
 
-  .fifthScreen {
+  .fifthScreen{
     background-size: cover;
     display: block;
     padding-bottom: 25%;
   }
-  .fifthScreen .left img {
+  .fifthScreen .left img{
     display: block;
     margin: auto;
-  }
+  } 
   .fifthScreen .right {
     margin-top: 20px;
   }
 
-  .sixthScreen {
+  .sixthScreen{
     background-size: cover;
     text-align: center;
     padding-bottom: 25%;
   }
-  .sixthScreen p {
+  .sixthScreen p{
     display: block;
     margin: auto;
     width: 90%;
     margin-top: 10px;
   }
-  .sixthScreenSecond button {
+  .sixthScreenSecond button{
     min-width: 150px;
   }
+
+
+
 
   .HocSide {
     display: none;
@@ -788,7 +791,7 @@
   .UserNav .left {
     display: flex;
     gap: 30px;
-    justify-content: flex-start;
+    justify-content:flex-start;
   }
   .UserNav .mid {
     height: 30px;
@@ -796,7 +799,7 @@
   .UserNav .mid .fa-magnifying-glass {
     display: none;
   }
-  .UserNav .mid .fa-filter {
+  .UserNav .mid .fa-filter{
     border: none;
   }
   .UserNav .mid input {
@@ -805,9 +808,11 @@
   .UserNav .mid button {
     width: 131px;
   }
-  .UserNav .right {
-    display: none;
-  }
+    .UserNav .right {
+      display: none;
+    }
+
+
 
   .UserSideBar {
     width: 100%;
@@ -817,7 +822,7 @@
     margin-bottom: 5%;
   }
 
-  .NinthFirst {
+  .NinthFirst{
     display: block;
   }
   .NinthFirst .left {
@@ -854,96 +859,95 @@
     max-height: 300px;
     overflow: auto;
   }
-
-  .homeThreeSec .main {
+  
+  .homeThreeSec .main{
     width: 90%;
     display: block;
     margin: auto;
   }
-  .HomeCenterInput {
+  .HomeCenterInput{
     width: 90%;
   }
 
-  .consultationModal .right .threeSec {
+
+
+  .consultationModal .right .threeSec{
     grid-template-columns: auto auto;
   }
 
-  .LocationModal .sixSec {
-    grid-template-columns: auto auto;
-  }
+    .LocationModal .sixSec {
+      grid-template-columns: auto auto;
+    }
 
-  .paymentImage {
-    max-width: 100%;
-  }
+    .paymentImage{
+      max-width: 100%;
+    }
 
-  .secondScreenTwo-Sec .left {
-    width: 90%;
-  }
+    .secondScreenTwo-Sec .left{
+      width: 90%;
+    }
 
-  .SignInModal form .icons {
-    display: block;
-  }
-  .SignInModal form .icons div {
-    width: 80%;
-    margin-top: 20px;
-    padding-top: 10px;
-  }
+    .SignInModal form .icons{
+      display: block;
+    }
+    .SignInModal form .icons div{
+      width: 80%;
+      margin-top: 20px;
+      padding-top: 10px;
+    }
 
-  .FourthScreenFirst {
-    display: none;
-  }
-  .FourthScreenSecond {
-    display: block;
-  }
-  .FourthScreenSecond .main {
-    display: block;
-    margin: auto;
-    margin-top: 20px;
-  }
-  .FourthScreenthird .one .MainBig {
-    display: block;
-    margin: auto;
-    margin-top: 20px;
-  }
-  .FourthScreenthird .one .MainBig .main {
-    display: block;
-    margin: auto;
-    margin-top: 20px;
-  }
-  .FourthScreenthird .one h3 {
-    text-align: center;
-    margin-left: 0;
-  }
-  .FourthScreen .right input {
-    background-color: #ffffff;
-  }
 
-  .fifthScreen .right {
-    width: 90%;
-    display: block;
-    margin: auto;
-    margin-top: 20px;
-  }
+    .FourthScreenFirst {
+      display: none;
+    }
+      .FourthScreenSecond{
+        display: block;
+      }
+      .FourthScreenSecond .main {
+        display: block;
+        margin: auto;
+        margin-top: 20px;
+      }
+      .FourthScreenthird .one .MainBig {
+        display: block;
+        margin: auto;
+        margin-top: 20px
+      }
+      .FourthScreenthird .one .MainBig .main{
+        display: block;
+        margin: auto;
+        margin-top: 20px;
+      }
+      .FourthScreenthird .one h3{
+        text-align: center;
+        margin-left: 0;
+      }
+      .FourthScreen .right input {
+        background-color: #ffffff;
+      }
 
-  .filterModal button {
-    width: 90%;
-  }
+      .fifthScreen .right {
+        width: 90%;
+        display: block;
+        margin: auto;
+        margin-top: 20px;
+      }
 
-  .homeThreeSec .second .under .two i {
-   margin-top:5px;
-  }
-  .homeThreeSec .second .under .two img {
-    margin-top: 5px;
-  }
-  .logoImage{
-    width: 150px !important;
-    height: 80px;
-  }
-  .home2btn{
-    margin-top: 5% !important;
-  }
-  .home2btn button{
-    font-size: 14px;
-    padding: 0;
-  }
+      .filterModal button{
+        width: 90%;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
 }

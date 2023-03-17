@@ -22,7 +22,7 @@ const HomeScreen = () => {
   useEffect(() => {
     window.scrollTo(0, 0)
     alert('Updated')
-  },[])
+  })
 
 
   return (
