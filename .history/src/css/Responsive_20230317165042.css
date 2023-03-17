@@ -894,29 +894,12 @@
 
 
     .FourthScreenFirst {
-      display: none;
+      display: block;
+      height: 100%;
     }
-      .FourthScreenSecond{
-        display: block;
-      }
-      .FourthScreenSecond .main {
-        display: block;
-        margin: auto;
-        margin-top: 20px;
-      }
-      .FourthScreenthird .one .MainBig {
-        display: block;
-        margin: auto;
-        margin-top: 20px
-      }
-      .FourthScreenthird .one .MainBig .main{
-        display: block;
-        margin: auto;
-        margin-top: 20px;
-      }
-      .FourthScreenthird .one h3{
-        text-align: center;
-        margin-left: 0;
-      }
-      
+    .FourthScreenFirst .main {
+      position: relative;
+      width: 90%;
+    }
+    ..FourthScreenFirst .main 
 }

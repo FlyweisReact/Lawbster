@@ -906,17 +906,6 @@
       }
       .FourthScreenthird .one .MainBig {
         display: block;
-        margin: auto;
-        margin-top: 20px
+
       }
-      .FourthScreenthird .one .MainBig .main{
-        display: block;
-        margin: auto;
-        margin-top: 20px;
-      }
-      .FourthScreenthird .one h3{
-        text-align: center;
-        margin-left: 0;
-      }
-      
 }
