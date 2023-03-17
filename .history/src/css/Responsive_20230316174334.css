@@ -1,0 +1,307 @@
+/** @format */
+@media screen and (min-width: 780px) and (max-width: 1500px) {
+  .HocSection {
+    min-height: 880px;
+  }
+  .UserSideBar {
+    height: 940px;
+  }
+  .HocNav {
+    width: 77%;
+  }
+  .homeThreeSec {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .secondScreen {
+    min-height: 550px;
+  }
+  .seventScreen .right {
+    width: 30%;
+  }
+  .seventScreen .seventScreenFivth .threeSec img {
+    width: 100px;
+  }
+  .seventScreen .seventScreenFivth .threeSec .centerONe h3 {
+    font-size: 23px;
+    margin: 0;
+  }
+  .seventScreen .seventScreenFivth .threeSec .centerONe h4 {
+    font-size: 20px;
+    margin: 0;
+  }
+  .seventScreen .seventScreenFivth .threeSec .centerONe h5 {
+    font-size: 18px;
+    margin: 0;
+  }
+  .seventScreen .seventScreenFivth .threeSec .centerONe .twoTwo h6 {
+    font-size: 16px;
+    margin: 0;
+  }
+  .seventScreen .seventScreenFivth .threeSec .centerONe .twoTwo img {
+    width: 60px;
+  }
+  .seventScreen .seventScreenFivth .threeSec .centerONe h6 {
+    font-size: 14px;
+    margin: 0;
+  }
+  .seventScreen .seventScreenFivth .threeSec .RightONe h4 {
+    font-size: 16px;
+    margin: 0 !important;
+  }
+  .seventScreen .seventScreenFivth .threeSec .RightONe h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 !important;
+  }
+
+  .seventScreen .seventScreenFivth .threeSec .RightONe button {
+    margin-top: 10px;
+    font-size: 16px;
+    padding: 0px;
+    width: 100px;
+    border-radius: 0px;
+  }
+  .homeThreeSec .second .under .two i {
+    margin-top: 10px;
+  }
+  .homeThreeSec .second .under .two img {
+    margin-top: 10px;
+  }
+  .homeThreeSec .second .under .two p {
+    margin-top: 7px;
+  }
+  .homeThreeSec .main .first img {
+    margin-top: 0px;
+  }
+  .seventScreen .left .mid .centerDiv {
+    width: 400px;
+  }
+  .newUU {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10px;
+    margin-bottom: 50px !important;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
+
+
+
+@media screen and (min-width: 600px) and (max-width: 900px) {
+  .nav {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+  }
+  .nav .left img{
+    width: 120px;
+    margin-top:12px;
+
+  }
+  .nav .left ul{
+    gap: 20px;
+  }
+  .nav .left ul li {
+    font-size: 20px;
+    margin-right: 20px;
+    margin-right: 0;
+  }
+  .nav .left .specialNavList {
+    min-width: 100px;
+  }
+
+  .nav .left .search {
+    margin-left: 0px;
+    display: none;
+  }
+  .nav .right button {
+    margin-top: 20px;
+  }
+
+  .homeThreeSec {
+    grid-template-columns: auto auto;
+    padding-bottom: 10%;
+  }
+  .HomeThreeSec p {
+    max-width: 200px;
+  }
+  .footer .upper {
+    grid-template-columns: auto auto;
+  }
+
+  .LocationModal .search{
+    max-width: 300px !important;
+  }
+  .LocationModal .sixSec{
+    grid-template-columns: auto auto auto ;
+  }
+  .LocationModal .fourSec{
+    grid-template-columns: auto auto;
+  }
+
+  .consultationModal{
+    display: block;
+  }
+  .consultationModal .left{
+    width: 100%;
+    border-radius: 0px;
+    height: 400px;
+    margin-right: 0 ;
+  }
+  .consultationModal .right{
+    width: 100%;
+  }
+  .CallBackForm form .main {
+    width: 90%;
+  }
+  .CallBackForm form .Bigmain textarea {
+    width: 80% !important;
+  }
+  .CallBackForm form button{
+    margin-left: 5%;
+    margin-bottom: 5%;
+  }
+
+  .ServiceModalTwo{
+    display: block;
+  }
+  .ServiceModalTwo .main .two-sec {
+    display: block;
+  }
+  .ServiceModalTwo .main .two-sec ul li{
+    margin-top: 10px;
+    text-align: left;
+  }
+
+  .ServiceModalTwo .secondMain{
+    margin-top: 20px;
+  }
+
+  .consultationModal .consultationRight{
+    margin-top: 0 !important;
+  }
+  .consultationModal .consultationRight .head{
+    margin-top: 0;
+    padding-top: 20px;
+  }
+  .consultationModal .consultationRight .fa-x{
+   top: 20px;
+   right: 20px;
+  }
+  .consultationModal .consultationRight .threeSec {
+    padding-bottom: 30px;
+  }
+
+  .secondScreenTwo-Sec{
+    max-width: 800px !important;
+    gap: 0px  !important;
+  }
+  .secondScreenTwo-Sec .left{
+    
+  }
+  
+}
+
+@media screen and (min-width: 320px) and (max-width: 760px) {
+  .nav .left ul {
+    display: none;
+  }
+  .nav .left .search {
+    display: none;
+  }
+  .nav .right {
+    display: none;
+  }
+  .home2btn {
+    margin-top: 8%;
+    width: 80%;
+  }
+  .home2btn button {
+    font-size: 16px;
+  }
+
+  .homeThreeSec {
+    padding-top: 30%;
+    grid-template-columns: auto;
+    width: 100%;
+    padding: 10px;
+    padding-bottom: 30%;
+  }
+  .homeThreeSec .main {
+    margin: 10px;
+  }
+  .HomeThreeSec {
+    display: block;
+  }
+  .HomeThreeSec div {
+    margin-top: 20px !important;
+    margin: auto;
+  }
+  .homeFistSec {
+    width: 100%;
+  }
+  .homeFistSec .two-btn {
+    display: block !important;
+  }
+  .homeFistSec .two-btn button {
+    font-size: 16px;
+    width: 300px;
+    margin-top: 20px;
+  }
+
+  .footer .upper {
+    grid-template-columns: auto;
+    justify-content: center !important;
+    padding-top: 15%;
+  }
+  .footer .upper .head {
+    margin-left: 50px;
+  }
+  .footer .upper .specialHead {
+    margin-left: 100px;
+  }
+  .footer .upper .desc {
+    margin-left: 80px;
+    text-align: left;
+  }
+  .footer .upper img {
+    margin-left: 80px;
+  }
+  .footer .upper ul li {
+    margin-left: 50px;
+  }
+  .footer .upper .downWard .head {
+    margin-left: 100px;
+  }
+  .footer .upper .downWard ul li {
+    margin-left: 0;
+  }
+  .footer .upper .downWard ul li i {
+    margin-left: 50px;
+  }
+  .homePageCarosel {
+    width: 100% !important;
+    position: relative;
+  }
+  .CImage {
+    width: 70%;
+  }
+  .carouselPrev {
+    left: 90%;
+    width: 25px !important;
+    height: 25px !important;
+  }
+  .carouselNext {
+    left: 10%;
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  .HomeCenterInput {
+    width: 400px;
+    margin-bottom: 5%;
+  }
+}
