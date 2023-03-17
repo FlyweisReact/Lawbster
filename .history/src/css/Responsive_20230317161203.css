@@ -432,7 +432,7 @@
   .homeFistSec .two-btn button {
     width: 200px;
     height: 100%;
-    padding: 8px;
+    padding: 5px;
   }
   .footer .upper {
     grid-template-columns: auto auto;

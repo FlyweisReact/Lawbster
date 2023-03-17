@@ -21,7 +21,7 @@ const HomeScreen = () => {
 
   useEffect(() => {
     alert('New Added')
-  },)
+  },[])
 
 
   return (
@@ -438,7 +438,7 @@ const HomeScreen = () => {
 
       <ReviewCarousel />
 
-      <div className="homeFistSec">
+      <div className="HomeCenterInput">
         <p className="head">Make legal simple with Us!</p>
         <p className="desc">
           400+ Corporates and 27,000+ Customers successfully connected with
