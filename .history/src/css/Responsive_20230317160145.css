@@ -424,7 +424,7 @@
     grid-template-columns: auto;
   }
   .homeFistSec {
-    max-width: 90%;
+    max-width: 450px;
   }
   .homeFistSec .two-btn button {
     width: 200px;
